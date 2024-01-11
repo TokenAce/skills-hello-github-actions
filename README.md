@@ -6,6 +6,7 @@
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+[![Step 5, Trigger the workflow](https://github.com/TokenAce/skills-hello-github-actions/actions/workflows/5-trigger.yml/badge.svg)](https://github.com/TokenAce/skills-hello-github-actions/actions/workflows/5-trigger.yml)
 
 # Hello GitHub Actions
 
